@@ -2,6 +2,9 @@
 
 An engaging Android game where players guess the name of a Pokémon based on its silhouette. This app fetches random Pokémon from the [PokeAPI](https://pokeapi.co) and challenges users to identify the Pokémon's name.
 
+# Download
+download the app: [PokeGuess.apk](https://drive.google.com/uc?id=1ffaGUFJAyHrN2X1bKQGmUhxrmnWMIPm_)
+
 ## Features
 
 - **Random Pokémon Generation**: Fetches a random Pokémon and displays its image.
